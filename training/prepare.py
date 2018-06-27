@@ -1,3 +1,5 @@
+#this is called in the first step of training step
+
 import os
 import shutil
 import numpy as np
